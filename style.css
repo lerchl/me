@@ -1,0 +1,7 @@
+.statusbar {
+    background: linear-gradient(150deg, rgba(14,0,255,1) 10%, rgba(48,48,161,1) 50%, rgba(81,22,154,1) 90%);
+}
+
+.tab {
+    border-right: none !important;
+}
