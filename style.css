@@ -1,5 +1,5 @@
 .statusbar {
-    background: linear-gradient(150deg, rgb(54, 165, 255) 10%, rgb(11, 11, 212) 50%, rgba(81,22,154,1) 90%);
+    background: linear-gradient(150deg, rgb(0 74 135) 10%, rgb(11, 11, 212) 90%);
 }
 
 .tab {
@@ -7,6 +7,6 @@
 }
 
 /* Inlay Hints */
-.dyn-rule-4-58 {
+.mtk1 {
     border-radius: 5px;
 }
