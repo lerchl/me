@@ -1,7 +1,12 @@
 .statusbar {
-    background: linear-gradient(150deg, rgba(14,0,255,1) 10%, rgba(48,48,161,1) 50%, rgba(81,22,154,1) 90%);
+    background: linear-gradient(150deg, rgb(54, 165, 255) 10%, rgb(11, 11, 212) 50%, rgba(81,22,154,1) 90%);
 }
 
 .tab {
     border-right: none !important;
+}
+
+/* Inlay Hints */
+.dyn-rule-4-58 {
+    border-radius: 5px;
 }
