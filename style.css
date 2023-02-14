@@ -1,5 +1,14 @@
+:root {
+    --custom-blue: rgb(3 16 104);
+    --custom-dark-blue: rgb(0 0 58);
+}
+
 .statusbar {
-    background: linear-gradient(150deg, rgb(3 16 104) 10%, rgb(0 0 58) 90%);
+    background: linear-gradient(150deg, var(--custom-blue) 10%, var(--custom-dark-blue) 90%);
+}
+
+.badge-content {
+    background-color: var(--custom-dark-blue) !important;
 }
 
 .tab {
