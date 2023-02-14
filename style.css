@@ -1,6 +1,8 @@
 :root {
     --custom-blue: rgb(3 16 104);
     --custom-dark-blue: rgb(0 0 58);
+    
+    --vscode-focusBorder: var(--custom-blue) !important;
 }
 
 .statusbar {
